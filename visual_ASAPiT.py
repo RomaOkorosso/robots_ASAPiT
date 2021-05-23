@@ -19,7 +19,7 @@ class Field:
     places = [0] * 20
     length = 20
     mid = length // 2
-    r_count = 2
+    r_count = 7
     moved_r = 0
     plot_num = 0
 
